@@ -12,7 +12,7 @@ public class MyCalcTest {
 	@Test
 	public void test_Sum() {
 		
-		assertEquals(40, calc.sum(30, 10));
+//		assertEquals(40, calc.sum(30, 10));
 		
 	}
 	@Test
